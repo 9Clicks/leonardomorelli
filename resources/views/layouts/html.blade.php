@@ -10,6 +10,8 @@
     <title></title>
     <link rel="icon" type="image/png" href="" />
 
+    @include('layouts.css')
+
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="Author" content="">

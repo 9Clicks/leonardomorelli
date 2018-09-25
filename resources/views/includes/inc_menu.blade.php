@@ -5,7 +5,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav mr-auto" id="tpl_nav">
             <li class="nav-item active">
                 <a class="nav-link" href="#"><span class="icon-home"></span> {{ $menu_app->tbl_menu_1 }} <span class="sr-only">(current)</span></a>
             </li>

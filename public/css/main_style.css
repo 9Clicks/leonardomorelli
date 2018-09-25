@@ -10494,3 +10494,18 @@ a.text-dark:focus {
   color: #cebe9d;
 }
 
+#tpl_local {
+  text-align: right;
+  color: #736357;
+  font-family: 'Lato', sans-serif;
+}
+
+#tpl_local a {
+  color: #5b5b5b;
+}
+
+#tpl_local a:hover {
+  color: #cebe9d;
+  text-decoration: none;
+}
+

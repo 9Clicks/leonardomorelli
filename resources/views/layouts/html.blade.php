@@ -32,6 +32,8 @@
     <meta name="generator" content="">
     <meta name="document-classification" content="" />
 
+    @include('layouts.js')
+
 </head>
 
 <body>

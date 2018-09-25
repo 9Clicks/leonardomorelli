@@ -79,6 +79,11 @@
                         @include('includes.inc_menu')
                     </div>
                 </div>
+                <div class="row mt-2">
+                    <div class="col-xl-12">
+                        @include('includes.inc_caroucel')
+                    </div>
+                </div>
             </div>
         </div>
     </div>

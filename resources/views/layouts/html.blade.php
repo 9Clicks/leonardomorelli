@@ -42,11 +42,36 @@
         <div class="row">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6">
+                   <div class="col-xl-12">
+                       <div class="row">
+                           <div class="col-xl-6">
 
+                           </div>
+                           <div class="col-xl-6" id="tpl_icones">
+                               <a href=""><span class="icon-instagram1"></span></a>
+                               <a href=""><span class="icon-facebook21"></span></a>
+                               <a href=""><span class="icon-twitter2"></span></a>
+                               <a href=""><span class="icon-youtube21"></span></a>
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="col-xl-6">
+                            <img src="{{ asset('tpl/imgs/logo.png') }}" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-xl-6" id="tpl_icones">
-                        <a href=""><span class="icon-puzzle"></span> </a>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        @include('includes.inc_menu')
                     </div>
                 </div>
             </div>

@@ -10483,9 +10483,14 @@ a.text-dark:focus {
 }
 
 #tpl_icones a {
-  font-size: 42px;
+  font-size: 32px;
   float: right;
   padding-right: 10px;
   text-decoration: none;
+  color: #5b5b5b;
+}
+
+#tpl_icones a:hover {
+  color: #f8f9fa;
 }
 

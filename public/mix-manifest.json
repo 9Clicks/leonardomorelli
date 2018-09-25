@@ -1,11 +1,11 @@
 {
     "/js/bootstrap.js": "/js/bootstrap.js?id=2099637626cd161c53c5",
     "/js/Jquery_3.2.js": "/js/Jquery_3.2.js?id=eacd70e8bb08d0bf288e",
-    "/css/main_style.css": "/css/main_style.css?id=6a1071eabd7c5cf2b06a",
+    "/css/main_style.css": "/css/main_style.css?id=bc88b1e8f7124453e710",
     "/css/bootstrap.css": "/css/bootstrap.css?id=7522bb00a0a368ef9b1b",
     "/js/bundle.js": "/js/bundle.js?id=4bb5e7c532b95ce71f11",
     "/js/popper.js": "/js/popper.js?id=9bf69a47b99dab5860d1",
     "/js/lightbox.js": "/js/lightbox.js?id=d10969882cd93f914808",
     "/css/ligtbox.css": "/css/ligtbox.css?id=06fd76c56815398d4e8a",
-    "/css/icones.css": "/css/icones.css?id=7606e2de021389149f20"
+    "/icones/app.css": "/icones/app.css?id=7606e2de021389149f20"
 }

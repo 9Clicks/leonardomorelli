@@ -12,8 +12,8 @@ mix.js('node_modules/jquery/dist/jquery.js', 'public/js/Jquery_3.2.js')
 
 mix.styles('node_modules/lightbox2/dist/css/lightbox.css', 'public/css/ligtbox.css')
 
-mix.styles('resources/icons/style.css', 'public/css/icones.css')
+mix.styles('resources/icons/style.css', 'public/icones/app.css')
 
-mix.copyDirectory('resources/icons/fonts', 'public/fonts');
+mix.copyDirectory('resources/icons/fonts', 'public/icones/fonts');
 
 mix.copyDirectory('node_modules/lightbox2/dist/images', 'public/images');

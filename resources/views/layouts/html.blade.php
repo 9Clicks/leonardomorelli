@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ $settings_app->tbl_title }}</title>
-    <link rel="icon" type="image/png" href="" />
+    <link rel="icon" type="image/png" href="{{ asset('tpl/imgs/favicon.png') }}" />
 
     @include('layouts.css')
 
@@ -38,8 +38,19 @@
 
 <body>
 
-    <div class="container-fluid">
+    <div class="container-fluid" id="tpl_top">
+        <div class="row">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
 
+                    </div>
+                    <div class="col-xl-6" id="tpl_icones">
+                        <a href=""><span class="icon-puzzle"></span> </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 </body>

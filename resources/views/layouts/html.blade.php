@@ -62,10 +62,10 @@
                 <div class="row mt-4">
                     <div class="col-xl-12">
                         <div class="row">
-                            <div class="col-xl-6">
-                                <img src="{{ asset('tpl/imgs/logo.png') }}" class="img-fluid" alt="">
+                            <div class="col-xl-7">
+                                <img src="{{ asset('tpl/imgs/logomarca.png') }}" class="img-fluid" alt="">
                             </div>
-                            <div class="col-xl-6" id="tpl_local">
+                            <div class="col-xl-5 mt-5" id="tpl_local">
                                 <h5><span class="icon-map1"></span> <strong>Onde Estamos?</strong></h5>
                                 <h4 class="text-muted"><small>Av. Japão, 345 - Cariru - Ipatinga/MG.</small></h4>
                                 <h4 class="text-muted">Telefone: <small>(31)</small> <strong>3821 9010</strong></h4>
